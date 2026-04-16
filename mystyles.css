@@ -1,0 +1,167 @@
+.body {
+    background-color: white;
+
+}
+
+.navbar {
+    background-color: #37095b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+    font-weight: 280;
+}
+
+.navbar-brand {
+    font-family: 'Dela Gothic One';
+    color: white;
+    font-size: 25pt;
+    font-weight: 500;
+}
+
+#navbarmenu {
+    color: white;
+}
+
+
+
+
+
+.carousel-inner {
+    margin-top: 75px;
+}
+
+.col1 {
+    margin-top: 100px;
+}
+
+.masthead {
+    margin-top: 75px;
+}
+
+h1 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 40pt;
+    color: #37095b;
+    margin-left: 30px;
+}
+
+h2 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 40pt;
+    color: #37095b;
+    margin-right: 230px;
+}
+
+h3 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 40pt;
+    color: #37095b;
+    margin-left: 300px;
+}
+
+h4 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 60px;
+    color: #37095b;
+    margin-bottom: 120px;
+
+}
+
+h5 {
+    padding-top: 80px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.col2 {
+    width: 100%;
+    margin-top: 100px;
+    margin-right: 50px;   
+}
+
+
+.p-1 {
+    margin-top: 100px;
+    margin-right: -10px;
+}
+
+
+.p-3 {
+    margin-top: 100px;
+    margin-left: -20px;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #37095b;
+    border-color: #37095b;
+}
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+    color: #37095b;
+}
+
+footer {
+    background-color: #37095b;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+    margin-top: 10px;
+}
+
+p2 {
+    color: purple;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+#cards {
+    margin-top: 100px;
+}
+
+.card-img-top1 {
+    margin-top: 30px;
+}
+
+.card-img-top2 {
+    background-color: blueviolet;
+}
+
+.Animation1 {
+    margin-top: 150px;
+}
+
+.Animation2 {
+    width: 80%;
+    margin-top: 10px;
+}
+
+.Animation3 {
+    margin-top: 100px;
+}
+
+.Animation4 {
+    margin-right: -50px;
+}
+
+.Animation5 {
+    margin-top: 100px;
+}
+
+.Animation6 {
+    margin-left: 150px;
+}
+
+
